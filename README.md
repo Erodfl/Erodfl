@@ -10,7 +10,7 @@ Skills: Project Management / Process Improvement / Analytics
 - 🌱 I’m currently learning Python 
 - 🤔 I’m looking for help with SQL Reporting and Analysis 
 ## Main Documents
-- <b>AlgoExpert </b>
+
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 <b>Resume</b>
 <img src="https://github.com/Erodfl/Erodfl/blob/main/Redumeimg.png" width="256" >
