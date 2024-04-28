@@ -1,4 +1,4 @@
-<h1>Hi, I'm Elvis! <br/><a href="https://www.linkedin.com/in/elvisrodriguezr/">Data Analytics</a>, <a>Developer</a>, <a>Healthcare</a>a></h1>
+<h1>Hi, I'm Elvis! <br/><a href="https://www.linkedin.com/in/elvisrodriguezr/">Data Analytics, Developer, Healthcare></a></h1>
 
 
 
