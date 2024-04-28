@@ -1,4 +1,4 @@
-<h1>Hi!, I am Elvis! <br/><a href="https://www.linkedin.com/in/elvisrodriguezr/">Analytics Professional</a></h1>
+<h1>Hi, I'm Josh! <br/><a href="https://www.linkedin.com/in/elvisrodriguezr/">Analytics Professional</a></h1>
 
 
 I'm an Analytics Professional. 🚀 Passionate about data analytics and business intelligence. 💼 Skilled in healthcare leadership and business process analysis. 💡 Welcome to my GitHub profile, where I share my projects and expertise.
