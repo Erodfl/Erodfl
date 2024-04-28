@@ -11,8 +11,8 @@ Skills: Project Management / Process Improvement / Analytics
 - 🤔 I’m looking for help with SQL Reporting and Analysis 
 ## Main Documents
 
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-<b>Resume</b>
+  - [Resume](https://github.com/joshmadakor1/Algorithms-Practice)
+
 <img src="https://github.com/Erodfl/Erodfl/blob/main/Redumeimg.png" width="256" >
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Erodfl)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/elvisrodriguezr/)  
