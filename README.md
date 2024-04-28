@@ -1,10 +1,10 @@
-<h1>Hi, I'm Elvis! <br/><a href="https://www.linkedin.com/in/elvisrodriguezr/">Business Intelligence Analyst, Healthcare Leader </a></h1>
+<h1>Hi, I'm Elvis! <br/><a href="https://www.linkedin.com/in/elvisrodriguezr/">Business Intelligence Analyst, Consultant</a></h1>
 
 
 
 I'm an Analytics Professional. 🚀 Passionate about data analytics and business intelligence. 💼 Skilled in healthcare leadership and business process analysis. 💡 Welcome to my GitHub profile, where I share my projects and expertise.
 
-Skills: Data Analytics |Project Management | Process Improvement | Healthcare
+Skills: Data Analytics | Project Management | Process Improvement | Healthcare
 
 - 🔭 I’m currently working on Analytics Content Organizer 
 - 🌱 I’m currently learning Python 
