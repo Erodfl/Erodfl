@@ -1,8 +1,5 @@
 <h1>Hi there 👋, my name is Elvis! <br/><a href="https://www.linkedin.com/in/elvisrodriguezr/">Analytics Professional</a></h1>
 
-![Business Intelligence Analyst](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-
 
 I'm an Analytics Professional. 🚀 Passionate about data analytics and business intelligence. 💼 Skilled in healthcare leadership and business process analysis. 💡 Welcome to my GitHub profile, where I share my projects and expertise.
 
