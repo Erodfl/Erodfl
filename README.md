@@ -19,7 +19,6 @@ Skills: Data Analytics | Project Management | Process Improvement | Healthcare
 alt="ZLXYhmgbMBo" width="240" height="180" border="10" /></a>
 <a href="https://www.youtube.com/watch?v=KhGWbt1dAKQ" target="_blank"><img src="http://img.youtube.com/vi/7U5jjXEqwmI/0.jpg" 
 alt="Dev" width="240" height="180" border="10" /></a>
-
 <a target="_blank"><img src="http://img.youtube.com/vi/7U5jjXEqwmI/0.jpg" 
 alt="Dev" width="240" height="180" border="10" /></a>
 
