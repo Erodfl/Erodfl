@@ -9,7 +9,7 @@ Skills: Data Analytics | Project Management | Process Improvement | Healthcare
 - 🔭 I’m currently working on Analytics Content Organizer 
 - 🌱 I’m currently learning Python 
 - 🤔 I’m looking for help with SQL Reporting and Analysis 
-## Main Documents
+## Main Documents 
 
 [<img src='https://github.com/Erodfl/Erodfl/blob/main/Projects.jpeg' alt='Projects' width='240' height='180'>](https://github.com/Erodfl/Projects/blob/main/README.md)
 [<img src='https://github.com/Erodfl/Erodfl/blob/main/Redumeimg.png' alt='Resume' width='240' height='180'>](https://github.com/Erodfl/Erodfl/blob/main/ElvisRodriguez_Resume(C05).pdf)
