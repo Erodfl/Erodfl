@@ -11,8 +11,10 @@ Skills: Data Analytics | Project Management | Process Improvement | Healthcare
 - 🤔 I’m looking for help with SQL Reporting and Analysis 
 ## Main Documents
 
-[Resume]<img src='https://github.com/Erodfl/Erodfl/blob/main/Redumeimg.png' alt='resume' height='240'>](https://github.com/Erodfl/Erodfl/blob/main/ElvisRodriguez_Resume(C05).pdf)
+[<img src='https://github.com/Erodfl/Erodfl/blob/main/Redumeimg.png' alt='resume' height='240'>](https://github.com/Erodfl/Erodfl/blob/main/ElvisRodriguez_Resume(C05).pdf)
 
+<a>[Resume](https://github.com/Erodfl/Erodfl/blob/main/ElvisRodriguez_Resume(C05).pdf)</a>
+<img src="https://github.com/Erodfl/Erodfl/blob/main/Redumeimg.png" width="240" >
 <a>[Resume](https://github.com/Erodfl/Erodfl/blob/main/ElvisRodriguez_Resume(C05).pdf)</a>
 <img src="https://github.com/Erodfl/Erodfl/blob/main/Redumeimg.png" width="240" >
 
