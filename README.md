@@ -12,7 +12,8 @@ Skills: Data Analytics | Project Management | Process Improvement | Healthcare
 ## Main Documents
 
 [<img src='https://github.com/Erodfl/Erodfl/blob/main/Redumeimg.png' alt='resume' height='240'>](https://github.com/Erodfl/Erodfl/blob/main/ElvisRodriguez_Resume(C05).pdf)
-[<img src='https://github.com/Erodfl/Erodfl/blob/main/Projects.jpeg' alt='resume' height='240'>](https://github.com/Erodfl/Erodfl/blob/main/ElvisRodriguez_Resume(C05).pdf)
+
+[<img src='https://github.com/Erodfl/Erodfl/blob/main/Projects.jpeg' alt='resume' height='210'>](https://github.com/Erodfl/Erodfl/blob/main/ElvisRodriguez_Resume(C05).pdf)
 
 
 <a href="https://github.com/Erodfl/Erodfl/blob/main/ElvisRodriguez_Resume(C05).pdf" target="_blank"><img src="http://img.youtube.com/vi/7U5jjXEqwmI/0.jpg" 
